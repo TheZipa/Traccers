@@ -1,0 +1,125 @@
+"Phrases"
+{
+	"Traccers"
+	{
+		"en"		"Traccers"
+		"ru"		"Трассера"
+	}
+	
+	"Enable"
+	{
+		"en"		"Enable"
+		"ru"		"Включить"
+	}
+	
+	"Disable"
+	{
+		"en"		"Disable"
+		"ru"		"Выключить"
+	}
+	
+	"Term"
+	{
+		"en"		"Term"
+		"ru"		"Срок"
+	}
+	
+	"Select Color"
+	{
+		"en"		"Select Color"
+		"ru"		"Выбрать цвет"
+	}
+	
+	"Color"
+	{
+		"en"		"Color"
+		"ru"		"Цвет"
+	}
+	
+	"Red"
+	{
+		"en"		"Red"
+		"ru"		"Красный"
+	}
+	
+	"Green"
+	{
+		"en"		"Green"
+		"ru"		"Зелёный"
+	}
+	
+	"Blue"
+	{
+		"en"		"Blue"
+		"ru"		"Синий"
+	}
+	
+	"Yellow"
+	{
+		"en"		"Yellow"
+		"ru"		"Жёлтый"
+	}
+	
+	"Pink"
+	{
+		"en"		"Pink"
+		"ru"		"Розовый"
+	}
+	
+	"White"
+	{
+		"en"		"White"
+		"ru"		"Белый"
+	}
+	
+	"Lighting"
+	{
+		"en"		"Lighting"
+		"ru"		"Молния"
+	}
+	
+	"No Access"
+	{
+		"en"		"{RED}[Traccers]{DEFAULT} You have no accees for use traccers."
+		"ru"		"{RED}[Traccers]{DEFAULT} У вас нет доступа к трассерам."
+	}
+	
+	"Traccers Term"
+	{
+		"#format"	"{1:i}"
+		"en"		"{RED}[Traccers]{DEFAULT} Tracers will end in {LIGHTPURPLE}{1}d."
+		"ru"		"{RED}[Traccers]{DEFAULT} Трассера закончатся через {LIGHTPURPLE}{1}д."
+	}
+	
+	"Traccers Permanent"
+	{
+		"en"		"{RED}[Traccers]{DEFAULT} You have permanent tracers"
+		"ru"		"{RED}[Traccers]{DEFAULT} Вы имеете бесконечные трассера"
+	}
+	
+	"Receive Traccers"
+	{
+		"en"		"{RED}[Traccers]{DEFAULT} You have received tracers for AWP and Deagle - {GREEN}!traccers"
+		"ru"		"{RED}[Traccers]{DEFAULT} Вы получили трассеры для AWP и Deagle - {GREEN}!traccers"
+	}
+	
+	"Log Receive Traccers"
+	{
+		"#format"	"{1:N},{2:s},{3:i}"
+		"en"		"{1} gived traccers for {2}. Term in months: {3}"
+		"ru"		"{1} выдал трассера для {2}. Срок в месяцах: {3}"
+	}
+	
+	"Already Have Traccers"
+	{
+		"#format"	"{1:N}"
+		"en"		"[Traccers] {1} already have traccers."
+		"ru"		"[Traccers] {1} уже имеет трассера."
+	}
+	
+	"Traccers Usage"
+	{
+		"en"		"[Traccers] Usage: sm_give_traccers <#userid|name> <months (1 - 12) | -1 = permanent>"
+		"ru"		"[Traccers] Использование: sm_give_traccers <#userid|name> <месяцы (1 - 12) | -1 = навсегда>"
+	}
+}
